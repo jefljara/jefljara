@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hola 👋
+Mi nombre es Jefferson Jara estudiante de la ingenieria de la carrera Ingenieria en Mecatronica y actualmente estoy cursando este curso de Sistemas Embebidos del cual espero aprender lo suficiente para poder aplicar dichos conocimientos en el ambito laboral.
 <!--
 **jefljara/jefljara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
